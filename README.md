@@ -1,6 +1,6 @@
 # WeChat-Inspired Loader Spinner Animation
 
-![WeChat-Inspired Loader Preview](loader-preview.png)
+![WeChat-Inspired Loader Preview](wechat_loader.png)
 
 This project replicates the minimalist and elegant loading spinner animation inspired by the WeChat app. It features a smooth, continuously rotating circular loader paired with a "Loading..." text, both enclosed in a compact, semi-transparent dark box for a clean and modern appearance. Designed with HTML and CSS, this lightweight solution is perfect for applications or websites that aim to enhance their user experience with a polished, professional touch. The animation is fully responsive and easy to integrate, making it an excellent choice for preloading screens or data fetching indicators.
 
